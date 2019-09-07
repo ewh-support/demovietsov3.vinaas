@@ -71,19 +71,19 @@ jQuery(document).ready(function($) {
 	});
 
 
-	$("#color-style-switcher .bottom a.settings").on('click', function(e){
-		e.preventDefault();
-		var div = $("#color-style-switcher");
-		if (div.css("left") === "-195px") {
-			$("#color-style-switcher").animate({
-				left: "0px"
-			}); 
-		} else {
-			$("#color-style-switcher").animate({
-				left: "-195px"
-			});
-		}
-	})
+	// $("#color-style-switcher .bottom a.settings").on('click', function(e){
+	// 	e.preventDefault();
+	// 	var div = $("#color-style-switcher");
+	// 	if (div.css("left") === "-195px") {
+	// 		$("#color-style-switcher").animate({
+	// 			left: "0px"
+	// 		}); 
+	// 	} else {
+	// 		$("#color-style-switcher").animate({
+	// 			left: "-195px"
+	// 		});
+	// 	}
+	// })
 
 	$("ul.colors li a").on('click', function(e){
 		e.preventDefault();
