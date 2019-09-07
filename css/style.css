@@ -71,7 +71,7 @@ body {
   background-attachment: fixed;
   background-color: #ffffff;
   color: #777777;
-  font-family: "Lato", sans-serif;
+  font-family: 'Quicksand', sans-serif;
   font-size: 16px;
   line-height: 1.7;
   overflow-x: hidden;
@@ -125,7 +125,7 @@ a {
 
 h1, h2, h3, h4, h5, h6,
 .h1, .h2, .h3, .h4, .h5, .h6 {
-  font-family: "Raleway", sans-serif;
+  font-family: 'Quicksand', sans-serif;
   line-height: 1.42857;
   color: #333333; }
   h1 small,
@@ -188,7 +188,7 @@ address {
   margin: 0 0 10px; }
 
 .ff-lato {
-  font-family: "Lato", sans-serif; }
+  font-family: 'Quicksand', sans-serif; }
 
 .ff-lora {
   font-family: "Lora", sans-serif; }
@@ -200,7 +200,7 @@ address {
   font-family: "Open Sans", sans-serif; }
 
 .ff-raleway {
-  font-family: "Raleway", sans-serif; }
+  font-family: 'Quicksand', sans-serif; }
 
 .ff-serif {
   font-family: "serif"; }
@@ -351,7 +351,7 @@ nav.navbar.bootsnav.menu-style1 ul.nav li a {
 
 nav.navbar.bootsnav ul.nav li a {
   font-size: 16px;
-  font-family: "Raleway", sans-serif;
+  font-family: 'Quicksand', sans-serif;
   font-weight: 600;
   text-transform: uppercase;
   -webkit-transition: all 0.2s ease-in-out;
@@ -373,7 +373,7 @@ nav.navbar.bootsnav ul.nav li a {
   color: #303030; }
 
 nav.navbar.bootsnav li.dropdown ul.dropdown-menu li a {
-  font-family: "Lato", sans-serif;
+  font-family: 'Quicksand', sans-serif;
   font-size: 13px;
   -webkit-transition: all 0.4s ease-in-out;
   -o-transition: all 0.4s ease-in-out;
@@ -446,7 +446,7 @@ nav.navbar.bootsnav.menu-style1 ul.dropdown-menu.megamenu-content .content ul.me
   position: relative; }
 
 nav.menu-style1 .side .widget ul.link li a {
-  font-family: "Lato", sans-serif; }
+  font-family: 'Quicksand', sans-serif; }
 
 .ulockd-quote-btn a {
   font-size: 16px;
@@ -1960,7 +1960,7 @@ section {
     right: 0;
     top: -64px; }
   .ulockd-main-title h2 {
-    font-family: "Raleway", sans-serif;
+    font-family: 'Quicksand', sans-serif;
     margin-bottom: 20px;
     margin-top: 0;
     padding-bottom: 10px;
@@ -3908,12 +3908,12 @@ article.ulockd-pd-content {
   padding-right: 10px; }
   .ulockd-footer-fst-col p {
     color: #C0C0C0;
-    font-family: "Lato", sans-serif;
+    font-family: 'Quicksand', sans-serif;
     margin-bottom: 20px; }
 
 .footer-fst-col p {
   color: #222222;
-  font-family: "Lato", sans-serif;
+  font-family: 'Quicksand', sans-serif;
   margin-bottom: 20px; }
 
 .ulockd-footer-lnews h3,
@@ -4396,7 +4396,7 @@ table.shop-dashboard {
 /* Inner Pages */
 .ulockd-error {
   color: #ffffff;
-  font-family: "Lato", sans-serif;
+  font-family: 'Quicksand', sans-serif;
   font-size: 345px;
   font-style: italic;
   letter-spacing: 5px; }
@@ -4656,7 +4656,7 @@ table.shop-dashboard {
 
 .icon-box {
   border-radius: 0 45px 0;
-  font-family: "Lato", sans-serif;
+  font-family: 'Quicksand', sans-serif;
   padding: 20px;
   position: relative; }
   .icon-box.icon-left .icon {
